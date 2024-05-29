@@ -10,6 +10,7 @@ from .devices.ep500p import EP500P
 from .devices.ep600 import EP600
 from .devices.eb3a import EB3A
 from .devices.ac180 import AC180
+from .devices.ac180p import AC180P
 from .commands import (
     DeviceCommand,
     ReadHoldingRegisters,

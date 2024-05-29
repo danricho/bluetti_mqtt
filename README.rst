@@ -13,6 +13,7 @@ Supported Devices
 - AC60
 - AC70
 - AC180
+- AC180P
 - AC200L
 - AC200M
 - AC300
